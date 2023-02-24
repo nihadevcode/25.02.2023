@@ -1,0 +1,26 @@
+
+
+.inputs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.number2{
+    margin-left: 100px;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    
+}
+
+.result{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
